@@ -1,0 +1,6 @@
+D:\Dev_Projects\CryEngine5.5\UIBasicsTutorial\bin\Game.dll
+D:\Dev_Projects\CryEngine5.5\UIBasicsTutorial\bin\Game.pdb
+D:\Dev_Projects\CryEngine5.5\UIBasicsTutorial\Code\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\Dev_Projects\CryEngine5.5\UIBasicsTutorial\Code\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Dev_Projects\CryEngine5.5\UIBasicsTutorial\Code\Game\obj\Debug\Game.dll
+D:\Dev_Projects\CryEngine5.5\UIBasicsTutorial\Code\Game\obj\Debug\Game.pdb
